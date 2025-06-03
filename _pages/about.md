@@ -32,6 +32,11 @@ I am a fourth-year CS PhD student at the University of Illinois at Urbana-Champa
 
 I currently work extensively with computational notebooks and vector indexing; my work aims to bridge established database principles with these emerging technologies used extensively in exploratory AI to enhance user experience.
 
-I dedicate my summers to internships. I have recently interned in ByteDance's System Infrastructure Lab and worked on indexing for filtered vector search. I have also interned four times at Google, working on efficient group by for structs in [Google BigQuery](https://cloud.google.com/bigquery), SQL profiling with BPF in [Google S2Infra](https://techsysinfra.google/), ads ranking algorithms in [Google Local Services](https://business.google.com/us/ad-solutions/local-service-ads), and ad request monitoring pipelines in [Google ContentAds](https://business.google.com/in/google-ads/). 
-
 During my undergraduate study at UIUC, I was fortunate to get early exposure to research, starting with a fun side project of DOTA2 match outcome prediction in the Esports Analytics Lab. I then proceeded with involved works: Deep Steerable Graph Generation with Prof. [Carl Yang](https://www.cs.emory.edu/~jyang71/), and my bachelor's thesis "REFORM: Fast and Adaptive Solution for Subteam Replacement" advised by Prof. [Hanghang Tong](http://tonghanghang.org/). 
+
+I dedicate my summers to internships; I am currently interning in ByteDance's System Infrastructure Lab and doing research on on-cloud vector databases. My previous internships and projects include: 
+* Summer 2024: System Infrastructure Lab @ ByteDance, Indexing for Filtered Vector Search 
+* Summer 2023: [Google BigQuery](https://cloud.google.com/bigquery) @ Google, Efficient GROUP BY for Structs
+* Summer 2022: [Google S2Infra](https://techsysinfra.google/) @ Google, SQL Profiling with BPF
+* Summer 2020: [Google Local Services](https://business.google.com/us/ad-solutions/local-service-ads) @ Google, Improving Ads Ranking Algorithms
+* Summer 2019: [Google ContentAds](https://business.google.com/in/google-ads/) @ Google, Monitoring Pipeline for Ad Requests
