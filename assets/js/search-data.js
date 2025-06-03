@@ -401,7 +401,7 @@ ninja.data = [{
             },},{id: "news-i-will-be-returning-to-bytedance-s-system-infrastructure-lab-as-a-research-intern-for-summer-2025",
           title: 'I will be returning to ByteDance’s System Infrastructure Lab as a Research Intern...',
           description: "",
-          section: "News",},{id: "news-i-gave-a-talk-at-pycon-2025-titled-world-s-first-undoable-notebook-for-my-ongoing-research-project-kishu-slides",
+          section: "News",},{id: "news-i-gave-a-talk-at-pycon-2025-titled-world-s-first-undoable-notebook-for-my-ongoing-research-project-kishu-slides-talk",
           title: 'I gave a talk at PyCon 2025 titled “World’s First Undoable Notebook” for...',
           description: "",
           section: "News",},{id: "projects-project-1",
