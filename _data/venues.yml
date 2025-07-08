@@ -24,7 +24,8 @@
   url: https://ieeexplore.ieee.org/xpl/conhome/1000178/all-proceedings
   color: "#7081ff"
 
-"demo":
+"DEMO":
+  url: https://sigmod.org/
   color: "#4D4D4D"
 
 "SRC":
