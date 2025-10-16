@@ -12,6 +12,14 @@
   url: https://vldb.org/
   color: "#7081ff"
 
+"EMNLP":
+  url: https://aclanthology.org/venues/emnlp/
+  color: "#7081ff"
+
+"NeurIPS":
+  url: https://neurips.cc/
+  color: "#7081ff"
+
 "SIGMOD":
   url: https://sigmod.org/
   color: "#7081ff"
