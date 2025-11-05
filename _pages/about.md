@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a fourth-year CS PhD student at the University of Illinois at Urbana-Champaign (UIUC) advised by Prof. [Yongjoo Park](https://yongjoopark.com/). I am a member of [CreateLab](https://createlab.cs.illinois.edu/) and [DAIS](https://dais.cs.illinois.edu/). My research interests are **Systems for AI and ML**, **Interactive data analytics**, **Vector databases**, and **Graph algorithms**.
+I am a fifth-year CS PhD student at the University of Illinois at Urbana-Champaign (UIUC) advised by Prof. [Yongjoo Park](https://yongjoopark.com/). I am a member of [CreateLab](https://createlab.cs.illinois.edu/) and [DAIS](https://dais.cs.illinois.edu/). My research interests are **Systems for AI and ML**, **Interactive data analytics**, **Vector databases**, and **Graph algorithms**.
 
 I currently work extensively with computational notebooks and vector indexing; my work aims to bridge established database principles with these emerging technologies used extensively in exploratory AI to enhance user experience. My research has been generously funded by the [NCSA](https://www.ncsa.illinois.edu/) for the Fall 2023 semester.
 
