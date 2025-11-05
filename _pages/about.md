@@ -34,7 +34,8 @@ I currently work extensively with computational notebooks and vector indexing; m
 
 During my undergraduate study at UIUC, I was fortunate to get early exposure to research, starting with a fun side project of DOTA2 match outcome prediction in the Esports Analytics Lab. I then proceeded with involved works: Deep Steerable Graph Generation with Prof. [Carl Yang](https://www.cs.emory.edu/~jyang71/), and my bachelor's thesis "REFORM: Fast and Adaptive Solution for Subteam Replacement" advised by Prof. [Hanghang Tong](http://tonghanghang.org/). 
 
-I dedicate my summers to internships; I am currently interning in ByteDance's System Infrastructure Lab and doing research on on-cloud vector databases. My previous internships and projects include: 
+I dedicate my summers to internships; My previous internships and projects include: 
+* Summer 2025: System Infrastructure Lab @ ByteDance, Cloud-Native Vector Indexes
 * Summer 2024: System Infrastructure Lab @ ByteDance, Filtered Vector Search Indexing
 * Summer 2023: [Google BigQuery](https://cloud.google.com/bigquery) @ Google, Efficient GROUP BY for Structs
 * Summer 2022: [Google S2Infra](https://techsysinfra.google/) @ Google, SQL Profiling with BPF
