@@ -36,6 +36,10 @@
   url: https://sigmod.org/
   color: "#4D4D4D"
 
+"ArXiv":
+  url: https://arxiv.org/
+  color: "#4D4D4D"
+
 "SRC":
   url: https://src.acm.org/
   color: "#4D4D4D"
