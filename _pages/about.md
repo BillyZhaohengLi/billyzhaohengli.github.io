@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Thomas M. Siebel Center, Room 2119</p>
-    <p>201 N. Goodwin Ave.</p>
-    <p>Urbana, IL 61801</p>
+    <p>ByteDance Ltd.</p>
+    <p>1199 Coleman Ave.</p>
+    <p>San Jose, CA 95110</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 additional_markdown: true
